@@ -1,5 +1,9 @@
 # Voice Authentication Research System
 
+<p align="center">
+  <img src="pos.png" alt="POS Thumbnail" width="400"/>
+</p>
+
 A comprehensive three-step voice authentication system using MFCC feature extraction and multiple audio transformations to improve robustness against voice spoofing attacks.
 
 ## 🎯 Overview
