@@ -76,6 +76,10 @@ python main.py \
 - **Hop length**: 512 samples
 - **Sample rate**: 22.05 kHz (standard)
 
+<p align="center">
+  <img src="algo.png" alt="POS Thumbnail" width="400"/>
+</p>
+
 ### Authentication Steps
 
 #### Step 1: Direct Comparison
