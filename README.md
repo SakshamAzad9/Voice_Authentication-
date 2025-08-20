@@ -77,7 +77,7 @@ python main.py \
 - **Sample rate**: 22.05 kHz (standard)
 
 <p align="center">
-  <img src="algo.png" alt="POS Thumbnail" width="400"/>
+  <img src="algo.jpg" alt="POS Thumbnail" width="400"/>
 </p>
 
 ### Authentication Steps
